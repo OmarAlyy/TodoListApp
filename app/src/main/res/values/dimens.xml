@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="recycler_view_padding_top">4dp</dimen>
+    <dimen name="recycler_view_padding_bottom">64dp</dimen>
+    <dimen name="image_button_large_size">48dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">6dp</dimen>
+    <dimen name="delete_button_margin">32dp</dimen>
+    <dimen name="title_margin_top">16dp</dimen>
+</resources>

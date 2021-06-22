@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_host.xml","javaFiles":["com.omar_aly.todo_list.ui.todo.TodoListFragmentDirections","com.omar_aly.todo_list.ui.todo.TodoDetailsFragmentDirections","com.omar_aly.todo_list.ui.todo.TodoDetailsFragmentArgs","com.omar_aly.todo_list.ui.todo.EditTodoFragmentArgs"]}]

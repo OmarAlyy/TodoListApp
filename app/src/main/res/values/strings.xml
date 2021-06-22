@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Todo-List App</string>
+    <string name="no_tasks">There are no tasks</string>
+    <string name="tag">Tag</string>
+    <string name="edit">Edit</string>
+    <string name="edit_task">Edit Todo</string>
+    <string name="add_task">Add Todo</string>
+    <string name="no_description">No description</string>
+    <string name="must_be_not_empty">The field must not be empty</string>
+    <string name="enter_task_name">Enter a Todo name</string>
+    <string name="enter_description">Enter a Description</string>
+    <string name="delete_task_button" translatable="false">delete_task_button</string>
+    <string name="task_tag_color" translatable="false">task_tag_color</string>
+    <string name="save">save</string>
+
+    <string name="notification_title">Reminder</string>
+    <string name="notification_subtitle">Your Task is about to begin!</string>
+
+    <string name="notification_schedule_title">Schedule notification:\u00a0</string>
+    <string name="notification_schedule_pattern">dd.MM.yy \u00B7 HH:mm</string>
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_host"
+    app:startDestination="@id/todoListFragment">
+
+    <fragment
+        android:id="@+id/todoListFragment"
+        android:name="com.omar_aly.todo_list.ui.todo.TodoListFragment"
+        tools:layout="@layout/todo_list_fragment">
+
+        <action
+            android:id="@+id/navToTask"
+            app:destination="@id/todoDetailsFragment" />
+        <action
+            android:id="@+id/navToAddTask"
+            app:destination="@id/addTodoFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/todoDetailsFragment"
+        android:name="com.omar_aly.todo_list.ui.todo.TodoDetailsFragment"
+        tools:layout="@layout/show_todo_details_fragment">
+        <argument
+            android:name="taskId"
+            app:argType="integer" />
+        <action
+            android:id="@+id/navToEditTaskFragment"
+            app:destination="@id/editTodoFragment" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/editTodoFragment"
+        android:name="com.omar_aly.todo_list.ui.todo.EditTodoFragment"
+        android:label="@string/edit_task"
+        tools:layout="@layout/edit_todo_fragment">
+        <argument
+            android:name="taskId"
+            app:argType="integer" />
+    </fragment>
+    <fragment
+        android:id="@+id/addTodoFragment"
+        android:name="com.omar_aly.todo_list.ui.todo.AddTodoFragment"
+        android:label="@string/add_task"
+        tools:layout="@layout/add_todo_fragment" />
+</navigation>

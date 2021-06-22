@@ -1,0 +1,85 @@
+
+
+<resources>
+    <!-- Base application theme. -->
+    <style name="ToDo" parent="Theme.MaterialComponents.DayNight">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimaryVariant">@color/colorSecondary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+        <item name="colorError">@color/colorError</item>
+        <item name="colorOnError">@color/colorOnError</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="textAppearanceHeadline1">@style/TextAppearance.ToDo.Headline1</item>
+        <item name="textAppearanceHeadline2">@style/TextAppearance.ToDo.Headline2</item>
+        <item name="textAppearanceHeadline3">@style/TextAppearance.ToDo.Headline3</item>
+        <item name="textAppearanceHeadline4">@style/TextAppearance.ToDo.Headline4</item>
+        <item name="textAppearanceHeadline5">@style/TextAppearance.ToDo.Headline5</item>
+        <item name="textAppearanceHeadline6">@style/TextAppearance.ToDo.Headline6</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.ToDo.Body1</item>
+        <item name="textAppearanceBody2">@style/TextAppearance.ToDo.Body2</item>
+        <item name="textAppearanceSubtitle1">@style/TextAppearance.ToDo.Subtitle1</item>
+        <item name="textAppearanceSubtitle2">@style/TextAppearance.ToDo.Subtitle2</item>
+        <item name="textAppearanceCaption">@style/TextAppearance.ToDo.Caption</item>
+        <item name="textAppearanceOverline">@style/TextAppearance.ToDo.Overline</item>
+        <item name="textAppearanceButton">@style/TextAppearance.ToDo.Button</item>
+
+
+
+
+        <item name="shapeAppearanceSmallComponent">
+            @style/ShapeAppearance.ToDo.SmallComponent
+        </item>
+        <item name="shapeAppearanceMediumComponent">
+            @style/ShapeAppearance.ToDo.MediumComponent
+        </item>
+        <item name="shapeAppearanceLargeComponent">
+            @style/ShapeAppearance.ToDo.LargeComponent
+        </item>
+
+        <item name="materialCardViewStyle">@style/Widget.ToDo.CardView</item>
+        <item name="materialButtonStyle">@style/ToDo.Button</item>
+        <item name="actionBarStyle">@style/Widget.MaterialComponents.ActionBar.Surface</item>
+
+        <item name="android:statusBarColor">?attr/colorSurface</item>
+        <item name="android:windowLightStatusBar">?attr/isLightTheme</item>
+
+        <item name="textInputStyle">@style/Widget.ToDo.TextInput</item>
+        <item name="floatingActionButtonStyle">@style/Widget.ToDo.FloatingActionButton
+        </item>
+
+        <item name="android:elegantTextHeight">true</item>
+    </style>
+
+    <style name="TextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox" />
+
+    <style name="Widget.ToDo.FloatingActionButton" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="backgroundTint">?attr/colorPrimary</item>
+        <item name="tint">?attr/colorOnPrimary</item>
+    </style>
+
+
+
+    <style name="ToDo.NoActionBar" parent="ToDo">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="ToDo.Button" parent="Widget.MaterialComponents.Button">
+        <item name="shapeAppearance">@style/ShapeAppearance.ToDo.Button</item>
+    </style>
+
+    <style name="Widget.ToDo.CardView" parent="Widget.MaterialComponents.CardView">
+        <item name="cardElevation">@dimen/card_elevation</item>
+        <item name="cardCornerRadius">@dimen/card_corner_radius</item>
+    </style>
+
+    <style name="Widget.ToDo.TextInput" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="boxBackgroundMode">none</item>
+    </style>
+</resources>
