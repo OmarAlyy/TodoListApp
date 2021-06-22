@@ -11,6 +11,7 @@ import androidx.databinding.Bindable;
 import androidx.databinding.DataBindingUtil;
 import androidx.databinding.ViewDataBinding;
 import androidx.recyclerview.widget.RecyclerView;
+import com.google.android.material.appbar.MaterialToolbar;
 import com.google.android.material.button.MaterialButton;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
@@ -45,13 +46,17 @@ public abstract class EditTodoFragmentBinding extends ViewDataBinding {
   @NonNull
   public final TimePickerCustom timeP;
 
+  @NonNull
+  public final MaterialToolbar toolbar;
+
   @Bindable
   protected Todo mTodo;
 
   protected EditTodoFragmentBinding(Object _bindingComponent, View _root, int _localFieldCount,
       MaterialButton edit, CheckBox remind10MinutesCheck, RecyclerView tagList,
       TextInputEditText taskDescriptionEditText, TextInputLayout taskDescriptionInput,
-      TextInputEditText taskNameEditText, TextInputLayout taskNameInput, TimePickerCustom timeP) {
+      TextInputEditText taskNameEditText, TextInputLayout taskNameInput, TimePickerCustom timeP,
+      MaterialToolbar toolbar) {
     super(_bindingComponent, _root, _localFieldCount);
     this.edit = edit;
     this.remind10MinutesCheck = remind10MinutesCheck;
@@ -61,6 +66,7 @@ public abstract class EditTodoFragmentBinding extends ViewDataBinding {
     this.taskNameEditText = taskNameEditText;
     this.taskNameInput = taskNameInput;
     this.timeP = timeP;
+    this.toolbar = toolbar;
   }
 
   public abstract void setTodo(@Nullable Todo todo);

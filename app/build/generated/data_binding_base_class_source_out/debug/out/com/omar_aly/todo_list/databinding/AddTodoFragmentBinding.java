@@ -10,6 +10,7 @@ import androidx.annotation.Nullable;
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
+import com.google.android.material.appbar.MaterialToolbar;
 import com.google.android.material.button.MaterialButton;
 import com.google.android.material.textfield.TextInputEditText;
 import com.google.android.material.textfield.TextInputLayout;
@@ -47,11 +48,15 @@ public final class AddTodoFragmentBinding implements ViewBinding {
   @NonNull
   public final TimePickerCustom timeP;
 
+  @NonNull
+  public final MaterialToolbar toolbar;
+
   private AddTodoFragmentBinding(@NonNull CoordinatorLayout rootView,
       @NonNull CheckBox remind10MinutesCheck, @NonNull MaterialButton save,
       @NonNull RecyclerView tagList, @NonNull TextInputEditText taskDescriptionEditText,
       @NonNull TextInputLayout taskDescriptionInput, @NonNull TextInputEditText taskNameEditText,
-      @NonNull TextInputLayout taskNameInput, @NonNull TimePickerCustom timeP) {
+      @NonNull TextInputLayout taskNameInput, @NonNull TimePickerCustom timeP,
+      @NonNull MaterialToolbar toolbar) {
     this.rootView = rootView;
     this.remind10MinutesCheck = remind10MinutesCheck;
     this.save = save;
@@ -61,6 +66,7 @@ public final class AddTodoFragmentBinding implements ViewBinding {
     this.taskNameEditText = taskNameEditText;
     this.taskNameInput = taskNameInput;
     this.timeP = timeP;
+    this.toolbar = toolbar;
   }
 
   @Override
@@ -138,9 +144,15 @@ public final class AddTodoFragmentBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.toolbar;
+      MaterialToolbar toolbar = rootView.findViewById(id);
+      if (toolbar == null) {
+        break missingId;
+      }
+
       return new AddTodoFragmentBinding((CoordinatorLayout) rootView, remind10MinutesCheck, save,
           tagList, taskDescriptionEditText, taskDescriptionInput, taskNameEditText, taskNameInput,
-          timeP);
+          timeP, toolbar);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -13,6 +13,12 @@
         android:label="Tests for com.omar_aly.todo_list"
         android:targetPackage="com.omar_aly.todo_list" />
 
+    <queries>
+        <package android:name="androidx.test.orchestrator" />
+        <package android:name="androidx.test.services" />
+        <package android:name="com.google.android.apps.common.testing.services" />
+    </queries>
+
     <uses-permission android:name="android.permission.REORDER_TASKS" />
 
     <application
