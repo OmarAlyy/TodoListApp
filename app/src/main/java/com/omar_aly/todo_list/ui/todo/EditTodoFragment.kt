@@ -11,6 +11,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
 import androidx.navigation.fragment.navArgs
+import androidx.navigation.ui.NavigationUI
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.work.Data
 import com.omar_aly.todo_list.R
@@ -64,7 +65,7 @@ class EditTodoFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        //  NavigationUI.setupWithNavController(binding.toolbar, findNavController())
+         NavigationUI.setupWithNavController(binding.toolbar, findNavController())
 
         binding.tagList.layoutManager =
             LinearLayoutManager(context, LinearLayoutManager.HORIZONTAL, false)
