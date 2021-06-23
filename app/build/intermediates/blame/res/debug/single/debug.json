@@ -1,106 +1,106 @@
 [
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/layout_edit_todo_fragment.xml.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/layout/edit_todo_fragment.xml"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/font_quicksand_light.ttf.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/font/quicksand_light.ttf"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/navigation_nav_host.xml.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/navigation/nav_host.xml"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/layout/activity_main.xml"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\font_quicksand_regular.ttf.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\font\\quicksand_regular.ttf"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/layout_add_todo_fragment.xml.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/layout/add_todo_fragment.xml"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_todo_fragment.xml.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\layout\\add_todo_fragment.xml"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/layout_show_todo_details_fragment.xml.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/layout/show_todo_details_fragment.xml"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/drawable_circle.xml.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/drawable/circle.xml"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\drawable\\circle.xml"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_check_24dp.xml.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\drawable\\ic_check_24dp.xml"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/drawable_ic_baseline_playlist_add_check_24.xml.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/drawable/ic_baseline_playlist_add_check_24.xml"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_playlist_add_check_24.xml.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\drawable\\ic_baseline_playlist_add_check_24.xml"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/drawable_ic_replay_24dp.xml.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/drawable/ic_replay_24dp.xml"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_todo_list_fragment.xml.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\layout\\todo_list_fragment.xml"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/drawable_ic_task.xml.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/drawable/ic_task.xml"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_24dp.xml.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\drawable\\ic_add_24dp.xml"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/layout_item_tag.xml.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/layout/item_tag.xml"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_outline_24dp.xml.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\drawable\\ic_delete_outline_24dp.xml"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/layout_todo_list_fragment.xml.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/layout/todo_list_fragment.xml"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\font_quicksand_bold.ttf.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\font\\quicksand_bold.ttf"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_todo_fragment.xml.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\layout\\edit_todo_fragment.xml"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/drawable_ic_baseline_edit_24.xml.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/drawable/ic_baseline_edit_24.xml"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_tag.xml.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\layout\\item_tag.xml"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/font_quicksand_medium.ttf.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/font/quicksand_medium.ttf"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_todo.xml.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\layout\\item_todo.xml"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/font_quicksand_regular.ttf.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/font/quicksand_regular.ttf"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_host.xml.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\navigation\\nav_host.xml"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/drawable_ic_delete_outline_24dp.xml.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/drawable/ic_delete_outline_24dp.xml"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_task.xml.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\drawable\\ic_task.xml"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/layout_item_todo.xml.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/layout/item_todo.xml"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_replay_24dp.xml.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\drawable\\ic_replay_24dp.xml"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/font_quicksand_bold.ttf.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/font/quicksand_bold.ttf"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\font_quicksand_semi_bold.ttf.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\font\\quicksand_semi_bold.ttf"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/drawable_ic_check_24dp.xml.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/drawable/ic_check_24dp.xml"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_show_todo_details_fragment.xml.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\layout\\show_todo_details_fragment.xml"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/drawable_ic_add_24dp.xml.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/drawable/ic_add_24dp.xml"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\font_quicksand_medium.ttf.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\font\\quicksand_medium.ttf"
     },
     {
-        "merged": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/res/merged/debug/font_quicksand_semi_bold.ttf.flat",
-        "source": "/Users/omaraly/StudioProjects/TodoListApp/app/src/main/res/font/quicksand_semi_bold.ttf"
+        "merged": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\res\\merged\\debug\\font_quicksand_light.ttf.flat",
+        "source": "D:\\androidProjects\\TodoListApp\\app\\src\\main\\res\\font\\quicksand_light.ttf"
     }
 ]

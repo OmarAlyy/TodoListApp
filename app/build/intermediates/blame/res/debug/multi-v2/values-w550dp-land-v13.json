@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/omaraly/StudioProjects/TodoListApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w550dp-land-v13/values-w550dp-land-v13.xml",
+            "outputFile": "D:\\androidProjects\\TodoListApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w550dp-land-v13\\values-w550dp-land-v13.xml",
             "map": [
                 {
-                    "source": "/Users/omaraly/.gradle/caches/transforms-2/files-2.1/3c53cc50f62c2a1555a18664ec2e372f/material-1.3.0/res/values-w550dp-land-v13/values-w550dp-land-v13.xml",
+                    "source": "C:\\Users\\20111\\.gradle\\caches\\transforms-2\\files-2.1\\3c53cc50f62c2a1555a18664ec2e372f\\material-1.3.0\\res\\values-w550dp-land-v13\\values-w550dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
