@@ -30,6 +30,7 @@ Main Goals:
 - [Navigation component](https://developer.android.com/guide/navigation/navigation-getting-started) (Navigation)
 - [ViewBinding](https://developer.android.com/topic/libraries/view-binding) (generates a binding class for each XML layout file)
 - [Extension Functions](https://kotlinlang.org/docs/extensions.html) (extend a class with new functionality without having to inherit)
+- [Espresso](https://developer.android.com/training/testing/espresso) (Android UI tests)
 
 
 **MVVM**
