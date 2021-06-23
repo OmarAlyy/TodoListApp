@@ -2,13 +2,12 @@
 Kotlin-Mvvm-Hilt-Room-RX
 
 Main Goals:
-• User can write simple todo (title, body)
-• User can save the todo item , the todo item is saved in database
-• User can find his todo item in todo list
-• User can tap on the todo item to check it or update it
-• User can swipe to delete
-• Show notification to user, 10 min before todo item time
-
+- User can write simple todo (title, body)
+- User can save the todo item , the todo item is saved in database
+- User can find his todo item in todo list
+- User can tap on the todo item to check it or update it
+- User can swipe to delete
+- Show notification to user, 10 min before todo item time
 
 
 
@@ -21,7 +20,8 @@ Main Goals:
 
 
 ## Libraries used
-- [Kotlin](https://kotlinlang.org/docs/reference/) :heart:
+
+- [Kotlin](https://kotlinlang.org/docs/reference/) 
 - [MVVM](https://developer.android.com/jetpack/docs/guide) (Architecture) and DataBinding
 - [Room](https://developer.android.com/topic/libraries/architecture/room) (Persistence)
 - [RxAndroid](https://github.com/ReactiveX/RxAndroid) (Reactive)
@@ -33,6 +33,9 @@ Main Goals:
 
 
 **MVVM**
+
 **ViewModel:** Provides data to the UI. Acts as a communication center between the Repository and the UI. Hides where the data originates from the UI. ViewModel instances survive configuration changes.
+
+
 <img src="https://i.imgur.com/UsNsFfN.png" />
 
